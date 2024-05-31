@@ -4,9 +4,13 @@
 
 ### Specs:
 RAML: 128 MB DDR2 or better
+
 CPU: Single Core 800 MHZ amd/intel cpu or better
+
 GPU: 16 MB Radeon HD 6000 series, NVIDIA GeForce GTX 1080 or better
+
 Storage: 2 KiB
+
 Storage type: HDD/SSD/M.2 SDD
 
 ### Player 1 controls:
