@@ -18,9 +18,14 @@ this will get 60 fps
 
 RAM: 1 GB DDR3/DDR2
 CPU: dual core 1.2 GHZ amd/intel cpu
+
+
 GPU: Radeon HD 7300 series, NVIDIA GeForce GTX 1080
+
 Storage: 100 KiB (Because of world saves)
+
 Storage type: HDD/SSD/M.2 SDD
+
 this will get 190+ fps although the game will only show 60 fps
 
 ### Player 1 controls:
