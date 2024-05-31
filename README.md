@@ -7,9 +7,9 @@ RAML: 128 MB DDR2 or better
 
 CPU: Single Core 800 MHZ amd/intel cpu or better
 
-GPU: 16 MB Radeon HD 6000 series, NVIDIA GeForce GTX 1080 or better
+GPU: Radeon HD 6000 series, NVIDIA GeForce GTX 1080 or better
 
-Storage: 2 KiB
+Storage: 2 KiB or more (for world save files)
 
 Storage type: HDD/SSD/M.2 SDD
 
